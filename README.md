@@ -1,2 +1,2 @@
 # PigGame
-JSC game from javascript Challenge
+JSC game 
